@@ -60,6 +60,6 @@ I plan to improve on these areas:
 
 ## Author
 
-Frontend Mentor - [@dinruz](https://github.com/dinruz)
+Frontend Mentor - [@dinruz](https://www.frontendmentor.io/profile/dinruz)
 
-GitHub - [@dinruz](https://www.frontendmentor.io/profile/dinruz)
+GitHub- [@dinruz](https://github.com/dinruz)
